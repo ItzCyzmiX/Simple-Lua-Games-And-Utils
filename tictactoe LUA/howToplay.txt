@@ -1,0 +1,8 @@
+
+when its your turn chose a number between 1 - 9 to make a move the number will place your name (A or B) on the corresponding place
+like this:
+
+__1___|___2__|___3___
+__4___|___5__|___6___
+__7___|___8__|___9___
+      |      |
