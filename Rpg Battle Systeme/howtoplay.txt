@@ -1,0 +1,22 @@
+HOW TO MAKE A MOVE:
+
+When the terminal / cmd ask you to make a move, type in either p or s or f or m to attack with either punch or sword or flame or magic respectively. 
+
+HOW MUCH EACH ATTACK COSTS?
+
+The punch attack doesn't cost any exp but sword costs 10, flame costs 20 and magic costs 50.
+Note: if you attack is critical you gain 10 exp and 1 level.
+
+WHAT HAPPENS WHEN I LOSE A GAME?
+
+You level gets reduced by 1.
+
+WHAT HAPPENS WHEN I WIN A GAME?
+
+You level gets incremented by 1.
+
+HOW TO DELETE MY SAVE?
+
+Go to the save folder and delete all the .txt files in it.
+
+							HAVE FUN!
