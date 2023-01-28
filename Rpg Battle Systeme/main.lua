@@ -1,4 +1,5 @@
 os.execute('cls');
+
 os.execute('title Zerla Land') 
 
 screen = {
@@ -35,9 +36,9 @@ enn1 = ' '
 exists = false
 
 function loadData()
-    local expSave = io.open('save/expSave.txt', 'r');
-    local lvlSave = io.open('save/lvlSave.txt', 'r');
-    local nameSave = io.open('save/nameSave.txt', 'r');
+    local expSave = io.open('expSave.txt', 'r');
+    local lvlSave = io.open('lvlSave.txt', 'r');
+    local nameSave = io.open('nameSave.txt', 'r');
     if expSave ~= nil then
         exp = expSave:read('n') + 30
         expSave:close();
@@ -175,9 +176,9 @@ function checkforDED(obj)
 end
 
 function saveData()
-    local expSave = io.open('save/expSave.txt', 'w');
-    local lvlSave = io.open('save/lvlSave.txt', 'w');
-    local nameSave = io.open('save/nameSave.txt', 'w');
+    local expSave = io.open('expSave.txt', 'w');
+    local lvlSave = io.open('lvlSave.txt', 'w');
+    local nameSave = io.open('nameSave.txt', 'w');
     if expSave ~= nil then
         expSave:write(exp);
         expSave:close()
