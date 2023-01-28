@@ -17,6 +17,6 @@ You level gets incremented by 1.
 
 HOW TO DELETE MY SAVE?
 
-Go to the save folder and delete all the .txt files in it.
+Delete all the .txt files in this folder.
 
 							HAVE FUN!
