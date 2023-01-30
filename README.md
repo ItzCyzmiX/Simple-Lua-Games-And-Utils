@@ -4,7 +4,7 @@ These games are mainly made to get you familliar with Lua syntax, and they are s
 
 ## Tic Tac Toe
 
-A recreation of the classic tic tac toe game, there is only support for Ai vs Player for now, but i will add the ability to have 2 players or more!
+A recreation of the classic tic tac toe game, with support for Ai vs Player and 2 players!, could add more players!
 
 ## Rock Paper Scissors
 
