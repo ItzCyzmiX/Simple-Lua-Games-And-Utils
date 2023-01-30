@@ -1,6 +1,6 @@
+--[[THIS COULD BUG SOMETIMES for some reason lol]]--
+
 os.execute('cls')
-
-
 table = {
     ' ', ' ', ' ',
     ' ', ' ', ' ',
